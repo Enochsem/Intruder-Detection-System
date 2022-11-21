@@ -13,7 +13,7 @@ def connect(ssid, password):
 #('192.168.8.111', '255.255.255.0', '192.168.8.1', '192.168.8.1')
 
 if __name__ == "__main__":
-    ssid = 'HUAWEI_B612_DAA8'
-    password = '69AB3AQHJ6E'
+    ssid = 'DESKKTOP-5TKR1V4'
+    password = "it'spassword"
     print(connect(ssid, password))
     
